@@ -1,18 +1,19 @@
 .player{
     padding: 20px 0;
-    margin-right: 10px;
-
+   
+    
     border: 1px solid black; 
     border-radius: 5px;
 }
 
 .player-img{
     border-radius: 50%;
+    margin: 10px 0;
 }
 h3{
     color: rgb(83, 95, 95);
     margin-bottom: 20px;
-    font-weight: 900;
+    font-weight: bolder;
 }
 *{
     margin: 0;

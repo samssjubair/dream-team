@@ -8,7 +8,7 @@ import './Player.css'
 const Player = (props) => {
     const {name,img,fee,club,nationality,position}=props.player;
     return (
-        <div>
+        
             <div className="col text-center player">
                 <h3>{name}</h3>
                 <img className="player-img" src={img} alt=""/>
@@ -18,7 +18,7 @@ const Player = (props) => {
                 <h5>Transfer Fee: ${fee}M</h5>
                 <button className="btn btn-dark" onClick={()=>props.addPlayerClick(props.player)}><FontAwesomeIcon icon={faFutbol}  /> Add Player</button>
             </div>
-        </div>
+        
     );
 };
 

@@ -18,7 +18,7 @@ const PlayerMarket = () => {
     },[])
     return (
         <div className="market">
-            <div className="all-player ">
+            <div className="all-player">
                 <div className="row row-cols-3">
                     {
                         players.map((player)=> <Player addPlayerClick={addPlayerClick} key={player.id} player={player}></Player> )
@@ -27,7 +27,7 @@ const PlayerMarket = () => {
                 </div>
             </div>
             <div className="added-player">
-                <AddedPlayers addedPlayers={addedPlayers}></AddedPlayers>
+                <AddedPlayers  addedPlayers={addedPlayers}></AddedPlayers>
             </div>
 
         </div>
