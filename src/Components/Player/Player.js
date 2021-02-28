@@ -14,7 +14,7 @@ const Player = (props) => {
                 <img className="player-img" src={img} alt=""/>
                 <p>Position: {position}</p>
                 <p>Nationality: {nationality}</p>
-                <p>Present Club:{club}</p>
+                <p>Present Club: {club}</p>
                 <h5>Transfer Fee: ${fee}M</h5>
                 <button className="btn btn-dark" onClick={()=>props.addPlayerClick(props.player)}><FontAwesomeIcon icon={faFutbol}  /> Add Player</button>
             </div>
