@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "nationality": "Argentina",
+        "fee": 400,
+        "club": "FC Barcelona",
+        "position": "Forward",
+        "img": "https://i.ibb.co/Z8KcmvP/messi.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Christiano Ronaldo",
+        "nationality": "Portugal",
+        "fee": 100,
+        "club": "Juventas",
+        "position": "Forward",
+        "img": "https://i.ibb.co/9yXWTmw/ron.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr.",
+      "nationality": "Brazil",
+      "fee": 350,
+      "club": "Paris SG",
+      "position": "Forward",
+      "img": "https://i.ibb.co/bQLbPh9/neymi.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kylian Mbappe",
+      "nationality": "France",
+      "fee": 300,
+      "club": "Paris SG",
+      "position": "Forward",
+      "img": "https://i.ibb.co/1GB8C3k/mbappe.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Erling Haland",
+      "nationality": "Norway",
+      "fee": 200,
+      "club": "Dortmund",
+      "position": "Forward",
+      "img": "https://i.ibb.co/wYPsWQh/haland.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Zlatan Ibrahimovic",
+      "nationality": "Sweden",
+      "fee": 70,
+      "club": "Ac Milan",
+      "position": "Forward",
+      "img": "https://i.ibb.co/pxGdQ5r/zlatan.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Robert Lewandoski",
+      "nationality": "Poland",
+      "fee": 100,
+      "club": "Bayern Munich",
+      "position": "Forward",
+      "img": "https://i.ibb.co/j3Sbd67/lewandoski.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sergio Ramos",
+        "nationality": "Spain",
+        "fee": 50,
+        "club": "Real Madrid",
+        "position": "Defence",
+        "img": "https://i.ibb.co/StpNJrh/ramos.jpg"
+    },
+    
+    {
+        "id": 9,
+        "name": "Pedri Gonzalez",
+        "nationality": "Spain",
+        "fee": 100,
+        "club": "FC Barcelona",
+        "position": "Midfield",
+        "img": "https://i.ibb.co/RS3QrJk/pedri.jpg"
+    },
+    
+    {
+        "id": 10,
+        "name": "Ansu Fati",
+        "nationality": "Spain",
+        "fee": 150,
+        "club": "FC Barcelona",
+        "position": "Forward",
+        "img": "https://i.ibb.co/cCM1tHC/fati.jpg"
+    },
+    
+    {
+        "id": 11,
+        "name": "Kevin De Bruyne",
+        "nationality": "Belgium",
+        "fee": 200,
+        "club": "Manchester City",
+        "position": "Midfield",
+        "img": "https://i.ibb.co/PgJpKY6/kdb.png"
+    },
+    {
+        "id": 12,
+        "name": "Alphanso Davies",
+        "nationality": "Canada",
+        "fee": 120,
+        "club": "Bayern Munich",
+        "position": "Defence",
+        "img": "https://i.ibb.co/FXP5Gmv/davies.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Virgil Van Dijk",
+        "nationality": "Netherlands",
+        "fee": 110,
+        "club": "Liverpool FC",
+        "position": "Defence",
+        "img": "https://i.ibb.co/gD6SZ9f/vvd.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Allison Becker",
+        "nationality": "Brazil",
+        "fee": 400,
+        "club": "Liverpool",
+        "position": "Goalkeeping",
+        "img": "https://i.ibb.co/S7kQjV2/becker1.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Bruno Fernandes",
+        "nationality": "Portugal",
+        "fee": 220,
+        "club": "Manchester United",
+        "position": "Midfield",
+        "img": "https://i.ibb.co/Vj29M6Y/bruno.jpg"
+    }
+
+  
+  ]
+
+  
+

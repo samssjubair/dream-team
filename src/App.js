@@ -1,23 +1,18 @@
-import logo from './logo.svg';
+import logo from './dream-team.png';
 import './App.css';
+
+import PlayerMarket from './Components/PlayerMarket/PlayerMarket';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img src={logo} alt=""/>
+        <h1>Make your own legendary XI with unlimited budget</h1>
+        
+       
       </header>
+      <PlayerMarket></PlayerMarket>
     </div>
   );
 }
