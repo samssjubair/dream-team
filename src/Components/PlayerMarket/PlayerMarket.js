@@ -9,8 +9,14 @@ const PlayerMarket = () => {
     const [players,setplayers]= useState([]);
     const [addedPlayers,setAddedPlayers]= useState([]);
     const addPlayerClick=(player)=>{
-        const updatedPlayer=[...addedPlayers,player];
-        setAddedPlayers(updatedPlayer);
+        const isAdded=addedPlayers.find(pl=>pl.id==player.id);
+        if(isAdded){
+            alert("A player can not be added twice");
+        }
+        else{
+            const updatedPlayer=[...addedPlayers,player];
+            setAddedPlayers(updatedPlayer); 
+        }
     }
 
     useEffect(()=>{
