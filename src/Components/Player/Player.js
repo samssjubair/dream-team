@@ -9,7 +9,7 @@ const Player = (props) => {
     const {name,img,fee,club,nationality,position}=props.player;
     return (
         
-            <div className="col text-center  player">
+            <div className="col text-center player">
                 <h3>{name}</h3>
                 <img className="player-img" src={img} alt=""/>
                 <p>Position: {position}</p>
