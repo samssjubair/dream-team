@@ -7,6 +7,8 @@
 
 .player-img{
     border-radius: 50%;
+    height: 200px;
+    width: 200px;
     margin: 10px 0;
 }
 h3{
